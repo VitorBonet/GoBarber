@@ -32,14 +32,14 @@ export const Container = styled.div<ContainerProps>`
   ${props =>
     props.isFocused &&
     css`
-      border-color: #cc7300;
-      color: #cc7300;
+      border-color: #ff9000;
+      color: #ff9000;
     `}
 
   ${props =>
     props.isFilled &&
     css`
-      color: #cc7300;
+      color: #ff9000;
     `}
 
   input {
