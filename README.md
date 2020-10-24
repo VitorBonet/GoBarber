@@ -13,7 +13,7 @@
 
 ### 📜 Sobre
 
-  **GoBarber** é uma aplicação para gerenciar atendimentos de cabelereiros. Desenvolvido no curso Bootcamp GoStack da Rocketseat(http://rocketseat.com.br/)
+  **GoBarber** é uma aplicação para gerenciar atendimentos de cabelereiros. Desenvolvido no curso Bootcamp GoStack da Rocketseat (http://rocketseat.com.br/)
 
 ---
 
