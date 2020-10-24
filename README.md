@@ -1,7 +1,7 @@
 # GoBarber
 
 <h1>
-  <img src="./src/home.PNG" >
+  <img src="./GoBarber.png" >
 </h1>
 
 ## Indice
